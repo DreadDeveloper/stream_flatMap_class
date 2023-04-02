@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/strean_flatMap.iml" filepath="$PROJECT_DIR$/strean_flatMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream_flatMap_class.iml" filepath="$PROJECT_DIR$/stream_flatMap_class.iml" />
     </modules>
   </component>
 </project>
